@@ -1,4 +1,4 @@
-from project.app import app
+from project.app import app, init_db
 
 from pathlib import Path
 
